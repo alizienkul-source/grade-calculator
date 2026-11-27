@@ -1,4 +1,4 @@
-# grade-calculator-
+# grade-calculator
 Short description: what the program does and who it is for.
 ## Requirements
 - The program shall allow the teacher to enter a student's name.
