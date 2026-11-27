@@ -1,0 +1,33 @@
+# C++ Coding Standards
+
+These are the five coding rules I will follow
+when writing my C++ programs.
+
+## Rule 1: Use camelCase for variable names
+
+Variable names must start with a lowercase letter.
+The first letter of each following word must be uppercase.
+
+Example:
+```cpp
+int studentAge;
+double studentAverage;
+if (score >= 90) {
+    cout << "Grade A";
+}
+int studentCount;
+double classAverage;
+// Calculate the student's average
+double average = totalScore / 5.0;
+int score = 90;
+double average = 85.5;
+cout << average;
+| № | Правило | Объяснение |
+|---|---|---|
+| 1 | camelCase | Переменные называются `studentAge`, а не `student_age` |
+| 2 | 4 spaces | Использовать четыре пробела для отступа |
+| 3 | Meaningful names | Давать переменным понятные имена |
+| 4 | Comments | Добавлять комментарии к важным операциям |
+| 5 | One statement per line | Писать одну команду на каждой строке |
+```text
+Add C++ coding standards
